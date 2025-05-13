@@ -1,0 +1,23 @@
+{
+  "name": "050525rutas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Moy",
+  "license": "ISC",
+  "description": "Tarea del 050525",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesmares/web2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moisesmares/web2/issues"
+  },
+  "homepage": "https://github.com/moisesmares/web2#readme"
+}
